@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "14564428941",
+    "firebase_url": "https://firechatmessenger-7d71c.firebaseio.com",
+    "project_id": "firechatmessenger-7d71c",
+    "storage_bucket": "firechatmessenger-7d71c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14564428941:android:04e2e2f05976e319",
+        "android_client_info": {
+          "package_name": "com.asp.chatapp.androidchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14564428941-qsti091f6rgqenhd7fji2mnttd82509h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfdvx8Mi6QFrWfzAMVPulay65cXvnqKMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
